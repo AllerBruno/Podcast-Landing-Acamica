@@ -207,7 +207,7 @@ div p{
     background: -webkit-linear-gradient(left,  #0000a3 0%,#0000ff 100%);
     background: linear-gradient(to right,  #0000a3 0%,#0000ff 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0000a3', endColorstr='#0000ff',GradientType=1 );
-    /*width: 100vw;*/
+    
 
 }
 .cta-text{
