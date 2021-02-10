@@ -49,9 +49,9 @@ li:hover{
 }
 
 /*HEADER SECCION2*/
-body{
+/*body{
     width: 100vw;
-}
+}*/
 h1 .line-through{
     text-decoration: line-through;
     color: #060A24;
@@ -99,7 +99,7 @@ div p{
     justify-content: space-between;
     display: flex;
     align-items: center;
-    width: 100vw;
+    /*width: 100vw;*/
     height: 1042.6px;
     padding-left: 100px;
     padding-right: 100px;
@@ -163,7 +163,7 @@ div p{
     justify-content: center;
 }
 .img-mosaico{
-    width: 33.3vw;
+    width: 33.3%;
 }
 .mosaico{
     margin-top: 700px;
@@ -207,7 +207,7 @@ div p{
     background: -webkit-linear-gradient(left,  #0000a3 0%,#0000ff 100%);
     background: linear-gradient(to right,  #0000a3 0%,#0000ff 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0000a3', endColorstr='#0000ff',GradientType=1 );
-    width: 100vw;
+    /*width: 100vw;*/
 
 }
 .cta-text{
@@ -319,7 +319,7 @@ div p{
         flex-wrap: wrap;
     }
     .img-mosaico{
-        width: 100vw;
+        /*width: 100vw;*/
         font-size: 2.25rem;
         font-family: 'IBM Plex Mono', monospace;
         font-weight: 300;
